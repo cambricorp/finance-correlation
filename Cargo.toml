@@ -1,0 +1,11 @@
+[package]
+name = "finance-correlation"
+version = "0.1.0"
+authors = ["jason-banana <jgjin@umich.edu>"]
+
+[dependencies]
+csv = "1.0.0-beta.5"
+futures = "*"
+hyper = "*"
+hyper-rustls = "*"
+tokio-core = "*"

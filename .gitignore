@@ -1,0 +1,5 @@
+/target/
+**/*.rs.bk
+/proposed.txt
+/symbols.csv
+*-prices.csv
